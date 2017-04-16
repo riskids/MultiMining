@@ -21,7 +21,9 @@ I do not guarantee this will work continue
 Petunjuk (Bahasa indonesia)
 -------------
 <p align="center">JANGAN PERNAH MEMBERITAHUKAN USERNAME KALIAN</p>
+
 jika ada masalah berikan saja log errornya tanpa username atau sensor sebagian!!! lalu share ke https://github.com/akbaryahya/MultiMining/issues selain itu aku cuekin.
+
 
 CARA BIAR GAK BANNED:
 * JANGAN NGE FOLLOW LEBIH DARI 2000 SELAMA SEJAM
@@ -39,6 +41,7 @@ PILIH PACKNYA TERUS KLIK GO.
 order akan di proses setiap selesai nge follow/like atau kalau coin sudah cukup
 
 GAN FAKE LOGIN ITU APA?
+
 FAKE LOGIN = AKUN TUYUL = 
 jadi lo kumpul coin di akun tuyul (royal) lalu like/views masuk di akun asli kamu (ig)
 TIDAK WORK UNTUK GET FOLLOWERS JADI ORDER PERCUMA!
