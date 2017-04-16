@@ -20,7 +20,7 @@ I do not guarantee this will work continue
 
 Petunjuk (Bahasa indonesia)
 -------------
-JANGAN PERNAH MEMBERITAHUKAN USERNAME KALIAN
+<p align="center">JANGAN PERNAH MEMBERITAHUKAN USERNAME KALIAN</p>
 jika ada masalah berikan saja log errornya tanpa username atau sensor sebagian!!! lalu share ke https://github.com/akbaryahya/MultiMining/issues selain itu aku cuekin.
 
 CARA BIAR GAK BANNED:
