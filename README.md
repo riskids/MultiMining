@@ -24,7 +24,6 @@ Petunjuk (Bahasa indonesia)
 
 jika ada masalah berikan saja log errornya tanpa username atau sensor sebagian!!! lalu share ke https://github.com/akbaryahya/MultiMining/issues selain itu aku cuekin.
 
-
 <h4>CARA BIAR GAK BANNED:</h4>
 * JANGAN NGE FOLLOW LEBIH DARI 2000 SELAMA SEJAM
 * JANGAN NGECLOSE BOT KALAU KENA LIMIT ATAU WAIT SELAMA 30 MENIT
